@@ -1,0 +1,8 @@
+convert all tables into neo4j (pipeline) (ipynb)
+
+create a small test of papers into neo4j with brucella (pipeline)
+	take in a paper, extract content, add relevant neo4j nodes
+	(vector embed and splice somewhere)
+
+connect all pieces.
+
