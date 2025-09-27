@@ -73,9 +73,10 @@ If python3 does not work:
 
 ## Example
 ### Frontend
-![Screenshot](./readme_img/interface.png)
+![Screenshot](./readme_img/vaxchat.png)
 ### Backend Pipeline
 ![Screenshot](./readme_img/flowchart.png)
+
 
 
 
