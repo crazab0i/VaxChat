@@ -59,15 +59,15 @@ VaxChat utilizes a variety of tools to answer user queries using retrieved data.
 To run the program, you need to start the frontend and backend: 
 ### Frontend 
 ```bash
-npm run dev               // within the frontend folder
+> npm run dev               // within the frontend folder
 ```
 ### Backend 
 ```bash
-python3 ./vaxchat.py   // within the backend folder
+> python3 ./vaxchat.py   // within the backend folder
 ```
 If python3 does not work:
 ```bash
-python ./vaxchat.py
+> python ./vaxchat.py
 ```
 
 
@@ -76,6 +76,7 @@ python ./vaxchat.py
 ![Screenshot](./readme_img/vaxchat.png)
 ### Backend Pipeline
 ![Screenshot](./readme_img/flowchart.png)
+
 
 
 
